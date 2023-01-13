@@ -1,4 +1,4 @@
 # Exercícios da Trybe
-Exercícios da Trybe
 
-Vamos ver se essa mudança vai pro GitHub
+Este é o meu repositório de exercícios da Trybe
+
