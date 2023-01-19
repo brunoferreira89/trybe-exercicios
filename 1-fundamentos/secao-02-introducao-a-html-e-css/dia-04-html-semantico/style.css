@@ -2,9 +2,9 @@ h1 {
     text-align: center;
   }
 
-h3 {
+h3, ul {
     text-align: center;
-}  
+}
 
   .first {
     background-color: rgb(235, 200, 84);
@@ -35,3 +35,7 @@ h3 {
     display: inline-block;
   }
 
+  .premiacao ul li {
+    display: inline;
+
+  }
