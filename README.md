@@ -8,22 +8,22 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Módulo 1 - Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
 
-##### Seção 1: Unix, Shell & Git/GitHub
+##### Seção 1: Unix, Shell & Git/GitHub (:heavy_check_mark:)
 
 - [X] 1-1: _Unix & Shell- Part 1_
 - [X] 1-2: _Unix & Shell- Part 2_
 - [X] 1-3: _O que é e para que serve?_
 - [X] 1-4: _Entendendo os comandos_
 
-##### Seção 2: Introdução a HTML & CSS
+##### Seção 2: Introdução a HTML & CSS (:heavy_check_mark:)
 
 - [X] 2-1: _Estruturas de página_
-- [ ] 2-2: _Primeiros passos em CSS_
-- [ ] 2-3: _Seletores e posicionamento_
-- [ ] 2-4: _HTML Semântico_
-- [ ] 2-5: _Projeto - Leassons Learned_
+- [X] 2-2: _Primeiros passos em CSS_
+- [X] 2-3: _Seletores e posicionamento_
+- [X] 2-4: _HTML Semântico_
+- [X] 2-5: _Projeto - Leassons Learned_
 
-##### Seção 3: Introdução a JavaScript
+##### Seção 3: Introdução a JavaScript (:hourglass_flowing_sand:)
 
 - [ ] 3-1: _Primeiros passos_
 - [ ] 3-2: _Array e loop For_
@@ -32,7 +32,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 3-5: _let, const, arrow functions e template literals_
 - [ ] 3-6: _Projeto - Playground Functions_
 
-##### Seção 4: JavaScript: DOM, Eventos e Web Storage
+##### Seção 4: JavaScript: DOM, Eventos e Web Storage (:hourglass_flowing_sand:)
 
 - [ ] 4-1: _JavaScript - Dom e seletores_
 - [ ] 4-2: _JavaScript - Trabalhando com elementos_
@@ -41,7 +41,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 4-5: _Projeto - Arte com Pixels_
 - [ ] 4-6: _Projeto Bônus_
 
-##### Seção 5: HTML & CSS
+##### Seção 5: HTML & CSS (:hourglass_flowing_sand:)
 
 - [ ] 5-1: _HTML & CSS - Forms_
 - [ ] 5-2: _Bibliotecas JavaScript e Frameworks CSS_
@@ -50,14 +50,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 5-5: _CSS Responsivo - Mobile First_
 - [ ] 5-6: _Projeto - Trybewarts_
 
-##### Seção 6: Introdução a JavaScript ES6 e Testes Unitários
+##### Seção 6: Introdução a JavaScript ES6 e Testes Unitários (:hourglass_flowing_sand:)
 
 - [ ] 6-1: _Fluxo de exceções e manipulação de objetos_
 - [ ] 6-2: _Primeiros passos em Jest_
 - [ ] 6-3: _Matchers e cobertura de código_
 - [ ] 6-4: _Projeto - JavaScript Testes Unitários_
 
-##### Seção 7: Higher Order Functions do JavaScript ES6
+##### Seção 7: Higher Order Functions do JavaScript ES6 (:hourglass_flowing_sand:)
 
 - [ ] 7-1: _Introdução a Higher Order Functions_
 - [ ] 7-2: _Higher Order Functions - sort e map_
