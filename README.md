@@ -26,7 +26,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Seção 3: Introdução a JavaScript (:hourglass_flowing_sand:)
 
 - [X] 3-1: _Primeiros passos_
-- [ ] 3-2: _Array e loop For_
+- [X] 3-2: _Array e loop For_
 - [ ] 3-3: _Lógica de Programação e Algoritmos_
 - [ ] 3-4: _Objetos e funções_
 - [ ] 3-5: _let, const, arrow functions e template literals_
