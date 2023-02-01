@@ -23,7 +23,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 2-4: _HTML Semântico_
 - [X] 2-5: _Projeto - Leassons Learned_
 
-##### Seção 3: Introdução a JavaScript (:hourglass_flowing_sand:)
+##### Seção 3: Introdução a JavaScript (:heavy_check_mark:)
 
 - [X] 3-1: _Primeiros passos_
 - [X] 3-2: _Array e loop For_
@@ -34,7 +34,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Seção 4: JavaScript: DOM, Eventos e Web Storage (:hourglass_flowing_sand:)
 
-- [ ] 4-1: _JavaScript - Dom e seletores_
+- [X] 4-1: _JavaScript - Dom e seletores_
 - [ ] 4-2: _JavaScript - Trabalhando com elementos_
 - [ ] 4-3: _JavaScript - Eventos_
 - [ ] 4-4: _JavaScript - Web Storage_
