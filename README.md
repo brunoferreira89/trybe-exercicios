@@ -29,8 +29,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 3-2: _Array e loop For_
 - [X] 3-3: _Lógica de Programação e Algoritmos_
 - [X] 3-4: _Objetos e funções_
-- [ ] 3-5: _let, const, arrow functions e template literals_
-- [ ] 3-6: _Projeto - Playground Functions_
+- [X] 3-5: _let, const, arrow functions e template literals_
+- [X] 3-6: _Projeto - Playground Functions_
 
 ##### Seção 4: JavaScript: DOM, Eventos e Web Storage (:hourglass_flowing_sand:)
 
