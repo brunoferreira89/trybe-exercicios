@@ -32,19 +32,19 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 3-5: _let, const, arrow functions e template literals_
 - [X] 3-6: _Projeto - Playground Functions_
 
-##### Seção 4: JavaScript: DOM, Eventos e Web Storage (:hourglass_flowing_sand:)
+##### Seção 4: JavaScript: DOM, Eventos e Web Storage (:heavy_check_mark:)
 
 - [X] 4-1: _JavaScript - Dom e seletores_
-- [ ] 4-2: _JavaScript - Trabalhando com elementos_
-- [ ] 4-3: _JavaScript - Eventos_
-- [ ] 4-4: _JavaScript - Web Storage_
-- [ ] 4-5: _Projeto - Arte com Pixels_
-- [ ] 4-6: _Projeto Bônus_
+- [X] 4-2: _JavaScript - Trabalhando com elementos_
+- [X] 4-3: _JavaScript - Eventos_
+- [X] 4-4: _JavaScript - Web Storage_
+- [X] 4-5: _Projeto - Arte com Pixels_
+- [X] 4-6: _Projeto Bônus_
 
 ##### Seção 5: HTML & CSS (:hourglass_flowing_sand:)
 
-- [ ] 5-1: _HTML & CSS - Forms_
-- [ ] 5-2: _Bibliotecas JavaScript e Frameworks CSS_
+- [X] 5-1: _HTML & CSS - Forms_
+- [X] 5-2: _Bibliotecas JavaScript e Frameworks CSS_
 - [ ] 5-3: _CSS Flexbox - Parte 1_
 - [ ] 5-4: _CSS Flexbox - Parte 2_
 - [ ] 5-5: _CSS Responsivo - Mobile First_
