@@ -1,0 +1,22 @@
+.header {
+    display: flex;
+    justify-content: center;
+    height: 250px;
+}
+
+.container {
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;    
+    
+}
+
+.main-content {    
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: 'Times New Roman', Times, serif;
+}
