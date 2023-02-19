@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Exercício</title>
+    <style>
+        section {
+            border-color: black;
+            border-style: solid;
+        }
+
+        .title {
+            text-align: center;
+        }
+
+        .main-content {
+            background-color: yellow;
+        }
+
+        .main-content .center-content {
+            background-color: red;
+            width: 50%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .main-content .center-content p {
+            font-style: italic;
+        }
+
+        .main-content .left-content {
+            background-color: green;
+            width: 60%;
+            margin-left: 0;
+            margin-right: auto;
+        }
+
+        .main-content .left-content .small-image {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            border-radius: 100%;
+        }
+
+        .main-content .right-content {
+            background-color: blue;
+            width: 60%;
+            margin-left: auto;
+            margin-right: 0;
+        }
+
+        .main-content .description {
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <script>
+        const elementoH1 = document.createElement('h1');
+        elementoH1.innerText = 'TrybeTrip - Agência de Viagens';
+        document.body.appendChild(elementoH1);
+
+        const elementoMain = document.createElement('main');
+        elementoMain.className = 'main-content';
+        document.body.appendChild(elementoMain);
+
+        const elementoSectionCenter = document.createElement('section');
+        elementoSectionCenter.className = 'center-content';
+        elementoMain.appendChild(elementoSectionCenter);
+
+        const elementoP = document.createElement('p');
+        elementoP.innerText = 'Venha viajar com a TrybeTrip!'
+        elementoSectionCenter.appendChild(elementoP);
+
+        const elementoSectionLeft = document.createElement('section');
+        elementoSectionLeft.className = 'left-content';
+        elementoMain.appendChild(elementoSectionLeft);
+
+        const elementoSectionRight = document.createElement('section');
+        elementoSectionRight.className = 'right-content';
+        elementoMain.appendChild(elementoSectionRight);
+
+        const elementoImgSectionLeft = document.createElement('img');
+        elementoImgSectionLeft.className = 'small-image';
+        elementoImgSectionLeft.src = 'https://picsum.photos/200';
+        elementoSectionLeft.appendChild(elementoImgSectionLeft);
+
+        const elementoUnorderedList = document.createElement('ul');
+        elementoSectionRight.appendChild(elementoUnorderedList);
+        const itensLista = ['Um', 'Dois', 'Três', 'Quatro', 'Cinco', 'Seis', 'Sete', 'Oito', 'Nove', 'Dez'];
+
+        for (let chave in itensLista) {
+            const elementosLista = document.createElement('li');
+            elementosLista.innerHTML = itensLista[chave];
+            elementoUnorderedList.appendChild(elementosLista);
+        }
+
+        const primeiraH3 = document.createElement('h3');
+        elementoMain.appendChild(primeiraH3);
+        const segundaH3 = document.createElement('h3');
+        elementoMain.appendChild(segundaH3);
+        const terceiraH3 = document.createElement('h3');
+        elementoMain.appendChild(terceiraH3);
+
+        elementoH1.className = 'title';
+        primeiraH3.className = 'description';
+        segundaH3.className = 'description';
+        terceiraH3.className = 'description';
+
+        elementoMain.removeChild(elementoSectionLeft);
+
+        elementoSectionRight.style.marginRight = 'auto';
+
+        elementoSectionCenter.parentElement.style.backgroundColor = 'green';
+
+        const listaNaoOrdenada = document.getElementsByTagName('ul')[0];
+        listaNaoOrdenada.lastChild.remove();
+        listaNaoOrdenada.lastChild.remove();
+
+    </script>
+</body>
+
+</html>
