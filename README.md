@@ -14,4 +14,4 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Módulo 4 - Ciência da Computação :hourglass_flowing_sand:
 
-
+Para saber o conteúdo de cada módulo, acesse o README na pasta dos respectivos módulos.
