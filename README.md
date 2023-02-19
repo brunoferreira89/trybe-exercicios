@@ -41,19 +41,19 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 4-5: _Projeto - Arte com Pixels_
 - [X] 4-6: _Projeto Bônus_
 
-##### Seção 5: HTML & CSS (:hourglass_flowing_sand:)
+##### Seção 5: HTML & CSS (:heavy_check_mark:)
 
 - [X] 5-1: _HTML & CSS - Forms_
 - [X] 5-2: _Bibliotecas JavaScript e Frameworks CSS_
-- [ ] 5-3: _CSS Flexbox - Parte 1_
-- [ ] 5-4: _CSS Flexbox - Parte 2_
-- [ ] 5-5: _CSS Responsivo - Mobile First_
-- [ ] 5-6: _Projeto - Trybewarts_
+- [X] 5-3: _CSS Flexbox - Parte 1_
+- [X] 5-4: _CSS Flexbox - Parte 2_
+- [X] 5-5: _CSS Responsivo - Mobile First_
+- [X] 5-6: _Projeto - Trybewarts_
 
 ##### Seção 6: Introdução a JavaScript ES6 e Testes Unitários (:hourglass_flowing_sand:)
 
-- [ ] 6-1: _Fluxo de exceções e manipulação de objetos_
-- [ ] 6-2: _Primeiros passos em Jest_
+- [X] 6-1: _Fluxo de exceções e manipulação de objetos_
+- [X] 6-2: _Primeiros passos em Jest_
 - [ ] 6-3: _Matchers e cobertura de código_
 - [ ] 6-4: _Projeto - JavaScript Testes Unitários_
 
