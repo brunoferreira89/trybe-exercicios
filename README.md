@@ -6,12 +6,10 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
-## Módulo 1 - Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
+## Módulo 1 - Fundamentos do Desenvolvimento Web :heavy_check_mark:
 
 ## Módulo 2 - Front-end :hourglass_flowing_sand:
 
 ## Módulo 3 - Back-end :hourglass_flowing_sand:
 
 ## Módulo 4 - Ciência da Computação :hourglass_flowing_sand:
-
-Para saber o conteúdo de cada módulo, acesse o README na pasta dos respectivos módulos.
